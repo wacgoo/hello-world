@@ -1,0 +1,15 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "expressJS crash course example",
+  "main": "expressApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+        "express":"*",
+        "body-parser":"*"
+  }, 
+  "author": "Tat Wai Ho",
+  "license": "ISC"
+}
